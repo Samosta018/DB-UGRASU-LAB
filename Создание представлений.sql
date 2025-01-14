@@ -1,0 +1,11 @@
+CREATE VIEW v_User AS SELECT * FROM "User";
+CREATE VIEW v_Order AS SELECT * FROM "Order";
+CREATE VIEW v_Order_Detail AS SELECT * FROM "Order_Detail";
+CREATE VIEW v_Payment AS SELECT * FROM "Payment";
+CREATE VIEW v_Status AS SELECT * FROM "Status";
+CREATE VIEW v_Product AS SELECT * FROM "Product";
+CREATE VIEW v_Brand AS SELECT * FROM "Brand";
+CREATE VIEW v_Category AS SELECT * FROM "Category";
+CREATE VIEW v_Subcategory AS SELECT * FROM "Subcategory";
+CREATE VIEW v_Storage AS SELECT * FROM "Storage";
+CREATE VIEW v_Inventory AS SELECT * FROM "Inventory";

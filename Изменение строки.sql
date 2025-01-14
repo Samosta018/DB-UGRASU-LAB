@@ -1,0 +1,1 @@
+UPDATE "User" SET name = 'Вася' WHERE login = 'petrov';
