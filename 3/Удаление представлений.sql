@@ -1,0 +1,11 @@
+DROP VIEW v_User;
+DROP VIEW v_Order;
+DROP VIEW v_Order_Detail;
+DROP VIEW v_Payment;
+DROP VIEW v_Status;
+DROP VIEW v_Product;
+DROP VIEW v_Brand;
+DROP VIEW v_Category;
+DROP VIEW v_Subcategory;
+DROP VIEW v_Storage;
+DROP VIEW v_Inventory;

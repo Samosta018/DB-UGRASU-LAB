@@ -1,0 +1,2 @@
+--CREATE INDEX index_name ON "User"(name); 
+--DROP INDEX index_name;

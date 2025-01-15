@@ -1,0 +1,11 @@
+DROP TABLE "Order_Detail";
+DROP TABLE "Inventory";
+DROP TABLE "Order";
+DROP TABLE "Payment";
+DROP TABLE "Product";
+DROP TABLE "Storage";
+DROP TABLE "User";
+DROP TABLE "Status";
+DROP TABLE "Brand";
+DROP TABLE "Subcategory";
+DROP TABLE "Category";
